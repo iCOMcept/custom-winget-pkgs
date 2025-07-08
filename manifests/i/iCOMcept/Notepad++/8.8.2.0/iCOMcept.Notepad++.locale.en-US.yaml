@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.9.14.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.9.0.schema.json
+
+PackageIdentifier: iCOMcept.Notepad++
+PackageVersion: 8.8.2.0
+PackageLocale: en-US
+Publisher: Don HO don.h@free.fr
+PackageName: Notepad++
+License: GPL-3.0-or-later
+Copyright: Copyleft 1998-2017 by Don HO
+ShortDescription: 'Notepad++ : a free (GNU) source code editor'
+ManifestType: defaultLocale
+ManifestVersion: 1.9.0

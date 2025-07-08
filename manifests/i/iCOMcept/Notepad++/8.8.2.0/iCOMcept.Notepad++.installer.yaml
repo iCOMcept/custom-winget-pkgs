@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.9.14.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.9.0.schema.json
+
+PackageIdentifier: iCOMcept.Notepad++
+PackageVersion: 8.8.2.0
+InstallerType: nullsoft
+Installers:
+- Architecture: x64
+  InstallerUrl: https://devpackagesicomcept.blob.core.windows.net/installers/i/iCOMcept/Notepad++/8.8.2.0/npp.8.8.2.Installer.x64.exe
+  InstallerSha256: 49852273A3E98AD1266A5BB7CD056E1154CC6D14E7C2A6E308AE95F355CA10CF
+ManifestType: installer
+ManifestVersion: 1.9.0
